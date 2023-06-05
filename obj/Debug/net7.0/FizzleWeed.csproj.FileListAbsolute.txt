@@ -1,0 +1,15 @@
+C:\Users\Nicho\Desktop\C#\FizzleWeed\bin\Debug\net7.0\FizzleWeed.exe
+C:\Users\Nicho\Desktop\C#\FizzleWeed\bin\Debug\net7.0\FizzleWeed.deps.json
+C:\Users\Nicho\Desktop\C#\FizzleWeed\bin\Debug\net7.0\FizzleWeed.runtimeconfig.json
+C:\Users\Nicho\Desktop\C#\FizzleWeed\bin\Debug\net7.0\FizzleWeed.dll
+C:\Users\Nicho\Desktop\C#\FizzleWeed\bin\Debug\net7.0\FizzleWeed.pdb
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.csproj.AssemblyReference.cache
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.AssemblyInfoInputs.cache
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.AssemblyInfo.cs
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.dll
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\refint\FizzleWeed.dll
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.pdb
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\FizzleWeed.genruntimeconfig.cache
+C:\Users\Nicho\Desktop\C#\FizzleWeed\obj\Debug\net7.0\ref\FizzleWeed.dll
